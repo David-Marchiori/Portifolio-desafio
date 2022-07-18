@@ -34,6 +34,7 @@ body {
 
   background: var(--bg-cards);
   border-radius: 20px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.265);
 }
 
 .profileimg {
@@ -84,6 +85,7 @@ body {
   border-radius: 20px;
 
   background-color: var(--bg-cards);
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.265);
 }
 
 .info {
@@ -125,6 +127,7 @@ body {
   border-radius: 20px;
 
   background-color: var(--bg-cards);
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.265);
 }
 
 .title {
@@ -178,6 +181,7 @@ body {
   border-radius: 20px;
 
   background-color: var(--bg-cards);
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.265);
 }
 
 .listexp {
@@ -233,6 +237,7 @@ body {
   border-radius: 20px;
 
   background-color: var(--bg-cards);
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.265);
 }
 
 .listedu {
@@ -300,6 +305,7 @@ main {
   align-items: center;
 
   background-color: var(--bg-cards);
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.265);
 }
 
 .titleproject {
@@ -355,6 +361,7 @@ main {
 
   border-radius: 20px;
   background-color: var(--bg-cards);
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.265);
 }
 
 .titleprojects {
@@ -398,6 +405,7 @@ main {
   align-items: center;
 
   background-color: var(--bg-cards);
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.265);
 }
 
 .titleposts {
@@ -427,6 +435,7 @@ main {
   flex-direction: row;
 
   background-color: var(--bg-cards);
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.265);
 }
 
 .profileimgpost {
